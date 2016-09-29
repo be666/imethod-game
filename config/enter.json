@@ -1,0 +1,24 @@
+{
+  "index": [
+    {
+      "index": {
+        "js": "src/index.js",
+        "template": "templates/index.ejs",
+        "title": "",
+        "keywords": "",
+        "description": ""
+      }
+    }
+  ],
+  "sample": [
+    {
+      "snake": {
+        "js": "src/pixi/snake/index.js",
+        "template": "templates/pixi.ejs",
+        "title": "",
+        "keywords": "",
+        "description": ""
+      }
+    }
+  ]
+}
